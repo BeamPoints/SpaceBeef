@@ -1,4 +1,4 @@
 # SpaceBeef
 
-#Copyright SAE München
+Copyright SAE München
 
